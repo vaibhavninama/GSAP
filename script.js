@@ -7,7 +7,6 @@ gsap.to('.page22 h1',{
         start:'top 0%',    
         end: 'top -100%',
         scrub:2,
-       markers:true,
        pin:true
        
     }
