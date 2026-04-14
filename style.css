@@ -28,3 +28,10 @@ html, body {
   width: 100%;
   border-bottom:1px solid white;
 }
+.vibhu{
+  overflow: hidden;
+}
+.vibhu span{
+  display: inline-block;
+  
+}
